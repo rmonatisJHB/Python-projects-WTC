@@ -1,0 +1,32 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#a0d0b1",
+        "activityBar.activeBorder": "#846ab5",
+        "activityBar.background": "#a0d0b1",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#846ab5",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#7ebf95",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#5cae79",
+        "titleBar.activeBackground": "#7ebf95",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#7ebf9599",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#7ebf95",
+    "python.linting.enabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "editor.wordWrap": "bounded"
+}
